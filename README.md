@@ -1,4 +1,4 @@
-# ![left 100%](images/Logo_OpenClassrooms.png) OpenClassrooms-Développeur Web
+# ![left 100%](https://github.com/thierry-laval/archives/blob/master/images/Logo_OpenClassrooms.png?raw=true) OpenClassrooms-Développeur Web
 _`Début de formation le 20/04/2020`_
 
 ### Auteur
@@ -16,18 +16,15 @@ _`Début de formation le 20/04/2020`_
 
 Le site optimisé: [La Chouette agence, hébergé sur GitHub](https://github.com/thierry-laval/la-chouette-agence)
 
+#### 🔨 Optimisez un site web existant
 
-
-#### 🔨  Optimisez un site web existant
-
-##### Compétences évaluées:
+##### Compétences évalué
 
 * Réaliser une recherche des bonnes pratiques en développement web
 * Assurer l'accessibilité d'un site web
 * Écrire un code HTML et CSS maintenable
 * Optimiser la taille et la vitesse d’un site web
 * Optimiser le référencement d'un site web
-
 
 ##### Objectifs
 
@@ -37,7 +34,29 @@ Le site optimisé: [La Chouette agence, hébergé sur GitHub](https://github.com
 * Accessibilité du site web.
 * EComparaison des résultats.
 
-#### Utilisé dans ce projet
+***
+
+##### Travail réalisé
+
+Le sujet porte sur l'optimisation du site [La Chouette agence](https://github.com/thierry-laval/la-chouette-agence), (hébergé sur GitHub) via la mise en œuvre de 10 recommandations SEO.
+Il faut également garantir l'accessibilité mobile du site en respectant les critères d'accessibilité sur [WCAG v2.0](https://developer.mozilla.org/fr/docs/Accessibilit%C3%A9/Checklist).
+
+Mes 10 recommandations se repartissent en 5 parties (voir détail dans les Livrables):
+
+1. Supprimer les éléments pouvant s'apparenter à du « black hat ».
+2. Mise en œuvre des bonnes pratiques d’accessibilité.
+3. SEO ON-PAGE - Optimisation technique du site et de la vitesse de chargement des pages.
+4. SEO ON-PAGE - Mise en place d'une structure technique optimisée.
+5. SEO ON-PAGE - Contenu reprenant les mots clés.
+
+Les liens partenaires en bas de la page accueil ne sont pas encore attribués.
+Je les ai déplacé vers une page de redirection 404.
+
+A REVOIR Cette redirection fonctionne grâce au fichier .htaccess placé à la racine du site. Cela marche avec le site créé pour la circonstance pour les besoins de mes tests : [TEST La Chouette agence](https://github.com/thierry-laval/la-chouette-agence). A REVOIR
+
+***
+
+##### Utilisé dans ce projet
 
 * Voir : [Le projet sur OpenClassrooms](https://openclassrooms.com/fr/paths/185/projects/638/assignment "Cliquez pour voir le projet")
 
