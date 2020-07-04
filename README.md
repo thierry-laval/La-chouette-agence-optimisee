@@ -26,6 +26,8 @@ Le site optimisé: [La Chouette agence, hébergé sur GitHub](https://github.com
 * Optimiser la taille et la vitesse d’un site web
 * Optimiser le référencement d'un site web
 
+***
+
 ##### Objectifs
 
 * Analyse de l’état actuel de SEO du site fourni.
@@ -69,9 +71,9 @@ A REVOIR Cette redirection fonctionne grâce au fichier .htaccess placé à la r
 
 ### 🚦Les documents de présentation
 
-[Google doc en ligne](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&checkerrorpages=yes&useragent=Validator.nu%2FLV+http%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fthierry-laval.github.io%2FOhmyfood%2F)
+[Google doc en ligne](https://)
 
-[doc en ligne](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthierry-laval.github.io%2FOhmyfood%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr)
+[doc en ligne](https://)
 
 Tableau de recommandations SEO [Recommandations](Mettre le lien en partage sur google)
 ***
