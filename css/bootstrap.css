@@ -1435,7 +1435,7 @@ img {
 .img-responsive,
 .thumbnail a>img,
 .thumbnail>img {
-    display: block;
+    display: inline; /*block*/
     max-width: 100%;
     height: auto
 }
@@ -4848,9 +4848,10 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 
 .nav>li>a:focus,
-.nav>li>a:hover {
-    text-decoration: none;
-    background-color: #eee
+.nav>li>a:hover,
+.nav>li>a:active: {
+    /*text-decoration: none;*/
+    background-color: #eee;
 }
 
 .nav>li.disabled>a {
