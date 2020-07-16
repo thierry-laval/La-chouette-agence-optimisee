@@ -123,7 +123,7 @@ a:hover {
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
 .d-bloc a .icon-sm,
-.d-bloc a .icon-md,
+/*.d-bloc a .icon-md,*/
 .d-bloc a .icon-lg,
 .d-bloc a .icon-xl,
 .d-bloc h1 a,
@@ -305,6 +305,7 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
+    color: rgba(0,0,0,.5);
 }
 
 .navbar-brand img[src$=svg] {
@@ -476,7 +477,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 30px !important;
 }
 
 .icon-lg {
@@ -677,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px/*11px*/
 }
 
 .tight-width-whitespace {
@@ -736,7 +737,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #f7f7f7!important;/*#ffffff!important;*/
 }
 
 .portfolio-thumb {
@@ -753,7 +754,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(86,70,26,.6); /*rgba(165, 147, 99, 0.7);*//*#583C1D;*/
     padding: 40px 40px 40px 40px;
 }
 
@@ -771,16 +772,16 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #F3976C;/*#583C1D;*/
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #efefaf!important; /*#F3976C!important;*/
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #F3976C; /*#C14F1C;*/
+    color: #59361D!important;/*#343434!important;*//*#000000!important;*/
 }
 
 .btn-atomic-tangerine:hover {
@@ -810,7 +811,7 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/la-chouette-agence-banniere.jpg"); /*url("img/dots-bg.png");*/
 }
 
 .bg-lines-h2-bg {
@@ -822,7 +823,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpeg");
 }
 
 @media (max-width: 1024px) {
@@ -1039,4 +1040,153 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+/* CORRECTIONS APPORTEES AU SITE 
+   ------------------------------*/
+
+/* Lien partenaires et mentions légales avec effet de soulignement */
+
+/*.btn-partenaires*/.partenaires-legales {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: #F3976C;
+    background-image: url(img/lines-h2-bg.png);  
+}
+
+.btn-partenaires{
+    padding-left: 3%;
+}
+
+.btn-partenaires:hover{
+    text-decoration: underline;
+}
+
+.btn-legales{
+    padding-right: 3%;
+}
+
+.btn-legales:hover{
+   text-decoration: underline;
+}
+
+.mention_legale{
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: justify;
+}
+
+.trait-séparation{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border: 1px solid #F3976C;
+}
+
+/*Responsive des textes-images - breakpoint 700 px*/
+
+@media (max-width: 700px){
+   .text-center img{
+    width: 100%;
+   }
+}
+
+/* Responsive affichage "Prêt pour redonner vie à votre projet ?" en bas de la page accueil */
+
+@media (min-width: 320px) and (max-width: 570px) {
+    #bloc-5-cta {
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+}
+
+/* Responsive affichage "Parlons web design !" en haut de la page contact */
+
+@media (min-width: 320px) and (max-width: 438px) {
+    #bloc-6 {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+}
+
+@media (min-width: 439px) and (max-width: 470px) {
+    #bloc-6 {
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+}
+
+/* Soulignement Accueil et Contact quand la page est active*/
+
+.nav a:focus{
+    text-decoration: underline;
+}
+
+#page1 #lien_accueil, #page2 #lien_contact, #page3 #lien_partenaires{
+    text-decoration: underline;
+}
+
+/* Changement couleur "La chouette agence - Agence web basée à Lyon" bas page1 - White vs black */
+
+.black{
+    color: #59361D!important;/*#343434!important;*//*#323232!important;*//*#000000!important;*/
+}
+
+/* Changement background "Parlons web" page contact */
+
+.bgc-parlons-web{
+    background-color: #793D0C;
+}
+
+/*Format texte suite conversion des 3 images centrales en texte*/
+
+.text-img1, .text-img3{
+    font-size: 22px;
+    padding-left: 18%;
+    padding-right: 18%;
+}
+
+.text-img2{
+    font-size: 22px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.nom_auteur{
+    font-size: 13px;
+}
+
+@media (max-width: 730px){
+    .text-img1, .text-img3, .text-img2{
+        margin-left: 5%;
+        margin-right: 5%;
+}
+}
+
+/* REsponsive carte agence*/
+
+@media (max-width: 767px){
+    .carte_agence{
+        margin-left: 2%;
+    }
+}
+
+/*REsponsive Logo La chouette */
+
+@media (min-width: 320px) and (max-width: 330px) {
+    .navbar-brand img{
+        width: 100%;
+    }
+    .navbar-brand{
+        width: 70%;
+    }
+}
+
+/* Changement couleur icônes réseaux sociaux - Voir ligne 126 */
+
+.icon-md{
+    color: #59361D;
 }
