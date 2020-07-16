@@ -1042,8 +1042,8 @@ h4 {
     }
 }
 
-/* CORRECTIONS APPORTEES AU SITE 
-   ------------------------------*/
+/* CORRECTIONS APPORTEES AU SITE
+------------------------------*/
 
 /* Lien partenaires et mentions légales avec effet de soulignement */
 
@@ -1054,7 +1054,7 @@ h4 {
     padding-top: 1%;
     padding-bottom: 1%;
     color: #F3976C;
-    background-image: url(img/lines-h2-bg.png);  
+    background-image: url(img/lines-h2-bg.png);
 }
 
 .btn-partenaires{
@@ -1070,7 +1070,7 @@ h4 {
 }
 
 .btn-legales:hover{
-   text-decoration: underline;
+text-decoration: underline;
 }
 
 .mention_legale{
@@ -1089,9 +1089,9 @@ h4 {
 /*Responsive des textes-images - breakpoint 700 px*/
 
 @media (max-width: 700px){
-   .text-center img{
+.text-center img{
     width: 100%;
-   }
+}
 }
 
 /* Responsive affichage "Prêt pour redonner vie à votre projet ?" en bas de la page accueil */
