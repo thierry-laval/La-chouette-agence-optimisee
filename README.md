@@ -67,12 +67,11 @@ A REVOIR Cette redirection fonctionne grâce au fichier .htaccess placé à la r
 * Liste à implémenter : [Check-list pour l'accessibilité mobile
 ](https://developer.mozilla.org/fr/docs/Accessibilit%C3%A9/Checklist_accessibilite_mobile)
 
-* HTML5
-* CSS3
-* JS
-* BOOSTRAP
-* GIT
-* Google Search console
+| Languages       | et                    | outils     |
+| :-------------: |:-------------:        | :-----:    |
+| HTML5           | BOOSTRAP              | xxxxxxxxxx |
+| CSS3            | GIT                   | xxxxxxxxxx |
+| JS              | Google Search console |  xxxxxx    |
 
 ***
 
