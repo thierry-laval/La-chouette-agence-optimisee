@@ -72,6 +72,7 @@ A REVOIR Cette redirection fonctionne grâce au fichier .htaccess placé à la r
 * JS
 * BOOSTRAP
 * GIT
+* Google Search console
 
 ***
 
