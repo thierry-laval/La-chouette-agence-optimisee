@@ -3,7 +3,7 @@ _`Début de formation le 20/04/2020`_
 
 ### Auteur
 
-👤 **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>) 
+👤 **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>)
 
 * Github:  [@Thierry Laval](https://github.com/thierry-laval)
 * LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
@@ -62,10 +62,16 @@ A REVOIR Cette redirection fonctionne grâce au fichier .htaccess placé à la r
 
 * Voir : [Le projet sur OpenClassrooms](https://openclassrooms.com/fr/paths/185/projects/638/assignment "Cliquez pour voir le projet")
 
-* Le site avant optimisation : [La Chouette agence](https://thierry-laval.github.io/la-chouette-agence-v1/) 
+* Le site avant optimisation : [La Chouette agence](https://thierry-laval.github.io/la-chouette-agence-v1/)
 
 * Liste à implémenter : [Check-list pour l'accessibilité mobile
 ](https://developer.mozilla.org/fr/docs/Accessibilit%C3%A9/Checklist_accessibilite_mobile)
+
+* HTML5
+* CSS3
+* JS
+* BOOSTRAP
+* GIT
 
 ***
 
