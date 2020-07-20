@@ -77,9 +77,11 @@ Les liens partenaires du footer ont été déplacés vers la nouvelle page [Part
 
 ### 🚦Les documents de présentation
 
-[Google doc en ligne](https://)
-
-[doc en ligne](https://)
+→ [Google doc en ligne](https://)\
+→ [doc en ligne](https://)\
+→ \
+→
 
 Tableau de recommandations SEO [Recommandations](Mettre le lien en partage sur google)
 ***
+<p>&hearts; Love Markdown<p>
