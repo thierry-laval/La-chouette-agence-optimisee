@@ -52,10 +52,9 @@ Mes 10 recommandations se repartissent en 5 parties (voir détail dans les Livra
 4. SEO ON-PAGE - Mise en place d'une structure technique optimisée.
 5. SEO ON-PAGE - Contenu reprenant les mots clés.
 
-Les liens partenaires en bas de la page accueil ne sont pas encore attribués.
-Je les ai déplacé vers une page de redirection 404.
+Les liens partenaires du footer ont été déplacés vers la nouvelle page [Partenaires](partenaires.html)
 
-A REVOIR Cette redirection fonctionne grâce au fichier .htaccess placé à la racine du site. Cela marche avec le site créé pour la circonstance pour les besoins de mes tests : [TEST La Chouette agence](https://github.com/thierry-laval/la-chouette-agence). A REVOIR
+`A REVOIR Cette redirection fonctionne grâce au fichier .htaccess placé à la racine du site. Cela marche avec le site créé pour la circonstance pour les besoins de mes tests : [TEST La Chouette agence](https://github.com/thierry-laval/la-chouette-agence). A REVOIR`
 
 ***
 
