@@ -55,7 +55,8 @@ Mes 10 recommandations se repartissent en 5 parties (voir détail dans les Livra
 Les liens partenaires du footer ont été déplacés vers la nouvelle page [Partenaires](partenaires.html).<br>
 Les liens partenaires ne pointent nulle part => [Redirection 404](https://thierry-laval.github.io/la-chouette-agence/page-404.html).<br>
 Une nouvelle page de redirection a été crée en attendant de mettre les liens définitifs.<br>
-Cette redirection fonctionne grâce au fichier .htaccess placé à la racine du site.<br>
+Cette redirection fonctionne grâce au fichier `.htaccess ` placé à la racine du site.<br>
+Sur GitHub les fichiers `.htaccess ` ne sont pas pris en charge.
 
 ***
 
