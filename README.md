@@ -42,7 +42,7 @@ Le site optimisé: [La Chouette agence, hébergé sur GitHub](https://thierry-la
 ##### Travail réalisé
 
 Le sujet porte sur l'optimisation du site [La Chouette agence](https://github.com/thierry-laval/la-chouette-agence), (hébergé sur GitHub) via la mise en œuvre de 10 recommandations SEO.
-Il faut également garantir l'accessibilité mobile du site en respectant les critères d'accessibilité sur [WCAG v2.0](https://developer.mozilla.org/fr/docs/Accessibilit%C3%A9/Checklist).
+Il faut également garantir l'accessibilité mobile du site en respectant les critères d'accessibilité sur [WCAG v2.0](https://www.w3.org/Translations/WCAG20-fr/).
 
 Mes 10 recommandations se repartissent en 5 parties (voir détail dans les Livrables):
 
