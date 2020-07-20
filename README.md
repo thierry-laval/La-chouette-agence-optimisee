@@ -15,7 +15,7 @@ _`Début de formation le 20/04/2020`_
 ***
 ### Optimiser le SEO d'un site
 
-Le site optimisé: [La Chouette agence, hébergé sur GitHub](https://github.com/thierry-laval/la-chouette-agence)
+Le site optimisé: [La Chouette agence, hébergé sur GitHub](https://thierry-laval.github.io/la-chouette-agence/)
 
 #### 🔨 Optimisez un site web existant
 
