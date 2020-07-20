@@ -1,6 +1,6 @@
-# REDIRECT NON-WWW TO WWW 
-RewriteCond %{HTTP_HOST} ^la-chouette-agence/ 
-RewriteRule (.*) https://www.la-chouette-agence//$1 [R=301,L] 
+# REDIRECT NON-WWW TO WWW
+RewriteCond %{HTTP_HOST} ^la-chouette-agence/
+RewriteRule (.*) https://www.la-chouette-agence//$1 [R=301,L]
 
 # REDIRECT ERROR 404
 ErrorDocument 404 /page-404.html
@@ -38,7 +38,3 @@ ExpiresByType image/x-icon "access plus 1 year"
 ExpiresDefault "access plus 2 days"
 </IfModule>
 # END Expires Headers
-
-
-
-RedirectPermanent /http://voiture.com/ https://thierry-laval.github.io/la-chouette-agence/page-404.html
