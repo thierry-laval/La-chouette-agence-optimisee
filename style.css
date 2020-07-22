@@ -569,9 +569,10 @@ a[data-lightbox]:hover img {
     align-items: center;
 }
 
+/*transformer max-width de 900 a 500*/
 #lightbox-modal .modal-dialog {
     width: 90%;
-    max-width: 900px;
+    max-width: 500px;
     margin: 0 auto 0;
 }
 
@@ -580,14 +581,16 @@ a[data-lightbox]:hover img {
     margin: 0 auto;
 }
 
+/*Centrer le texte avec left, right et texte align*/
 .lightbox-caption {
     padding: 20px;
     color: #FFF;
     background: rgba(0, 0, 0, .5);
     position: absolute;
-    left: 15px;
-    right: 15px;
+    left: 90px;
+    right: 90px;
     bottom: 5px;
+    text-align: center;
 }
 
 .close-lightbox {
