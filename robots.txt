@@ -1,2 +1,3 @@
 User-Agent: *
 Disallow:
+https://github.com/thierry-laval/la-chouette-agence/blob/master/sitemap.xml
