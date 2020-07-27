@@ -1173,7 +1173,7 @@ text-decoration: underline;
 }
 }
 
-/* REsponsive carte agence*/
+/* Responsive carte agence*/
 
 @media (max-width: 767px){
     .carte_agence{
@@ -1181,7 +1181,7 @@ text-decoration: underline;
     }
 }
 
-/*REsponsive Logo La chouette */
+/*Responsive Logo La chouette */
 
 @media (min-width: 320px) and (max-width: 330px) {
     .navbar-brand img{
