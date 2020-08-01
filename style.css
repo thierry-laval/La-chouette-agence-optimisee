@@ -748,7 +748,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
-    margin: auto;
+        margin: auto;
 }
 
 .portfolio-row {
@@ -955,7 +955,7 @@ h4 {
         background: rgba(0, 0, 0, .8);
     }
     #hero-bloc .navbar .nav a {
-        color: rgba(255, 255, 255, .6);
+        color: rgba(218, 115, 20, 0.6);
     }
     .hero {
         padding: 50px 0;
