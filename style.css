@@ -1198,3 +1198,9 @@ text-decoration: underline;
 .icon-md{
     color: #59361D;
 }
+
+/* Changement de couleur pour la barre de navigation cachée afin de passer la validation de contraste*/
+.ui-navbar-toggle {
+    background-color: white;
+    color: black;
+}
