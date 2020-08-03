@@ -4,9 +4,9 @@ _`Début de formation le 20/04/2020`_
 
 ### Auteur
 
-👤 **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>)
+👤**Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>)
 
-* Github:  [@Thierry Laval](https://github.com/thierry-laval)
+* Github [@Thierry Laval](https://github.com/thierry-laval)
 * LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
 
 ***
@@ -46,7 +46,7 @@ Il faut également garantir l'accessibilité mobile du site en respectant les cr
 
 Mes 10 recommandations se repartissent en 5 parties (voir détail dans les Livrables):
 
-1. Supprimer les éléments pouvant s'apparenter à du « black hat ».
+1. Supprimer les éléments pouvant s'apparenter à du "black hat".
 2. Mise en œuvre des bonnes pratiques d’accessibilité.
 3. SEO ON-PAGE - Optimisation technique du site et de la vitesse de chargement des pages.
 4. SEO ON-PAGE - Mise en place d'une structure technique optimisée.
@@ -55,8 +55,8 @@ Mes 10 recommandations se repartissent en 5 parties (voir détail dans les Livra
 Les liens partenaires du footer ont été déplacés vers la nouvelle page [Partenaires](partenaires.html).<br>
 Les liens partenaires ne pointent nulle part => [Redirection 404](https://thierry-laval.github.io/la-chouette-agence/page-404.html).<br>
 Une nouvelle page de redirection a été crée en attendant de mettre les liens définitifs.<br>
-Cette redirection fonctionne grâce au fichier `.htaccess ` placé à la racine du site.<br>
-Sur GitHub les fichiers `.htaccess ` ne sont pas pris en charge.
+Cette redirection fonctionne grâce au fichier `.htaccess` placé à la racine du site.<br>
+Sur GitHub les fichiers `.htaccess` ne sont pas pris en charge.
 
 ***
 
@@ -86,4 +86,16 @@ Sur GitHub les fichiers `.htaccess ` ne sont pas pris en charge.
 
 Tableau de recommandations SEO [Recommandations](Mettre le lien en partage sur google)
 ***
+
+##### Accés aux réseaux sociaux.
+</p>
+<a href="https://twitter.com/explore" title="Compte Twitter" target="_blank"><span
+class="fa fa-twitter icon-md"></span></a>
+<a aria-label="compte facebook" class="social" href="https://fr-fr.facebook.com/" title="Cliquez pour ouvrir notre compte" target="_blank"><span
+class="fa fa-facebook icon-md"></span></a>
+<a class="social" href="https://dribbble.com/" title="Cliquez pour ouvrir notre compte" target="_blank"><span
+class="fa fa-dribbble icon-md"></span></a>
+<a aria-label="compte instagram" class="social" href="https://www.instagram.com/?hl=fr"
+title="Cliquez pour ouvrir notre compte" target="_blank"><span class="fa fa-instagram icon-md"></span></a>
+</p>
 <p>&hearts; Love Markdown<p>
