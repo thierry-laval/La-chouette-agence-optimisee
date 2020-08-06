@@ -74,7 +74,9 @@
 	<link rel="stylesheet" type="text/css" href="./css/font-awesome.css">
 	<link rel="stylesheet" type="text/css" href="./css/et-line.css">
 
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+	<!--Lien vers la police en cdn en attente d'amélioration
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+	-->
 
 	<!--Rajout de defer pour charger et lancer l'interprétation de code JavaScript sans bloquer le rendu HTML-->
 	<script src="js/jquery-2.1.0.js" defer></script>
@@ -444,6 +446,13 @@
 
 	<!--Code d'intégrité des sous-ressources - SRI Hash Generator-->
 	<script src="https://thierry-laval.github.io/la-chouette-agence/" integrity="sha384-mGAzARARq1WFWxWM5mFJrAa+gb+Ldl4QV0UDCVSj47q9lnPYRgAy9ptebjycDQQe" crossorigin="anonymous"></script>
+
+	<!--La balise <noscript> est définie. Celle-ci est nécessaire pour afficher un message
+	lorsque le JavaScript est désactivé par l'utilisateur.-->
+	<script  type="text/javascript">
+		document.write('Hello World!')
+	</script>
+	<noscript>Votre navigateur ne supporte pas JavaScript!</noscript>
 
 </body>
 
