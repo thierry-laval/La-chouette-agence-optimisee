@@ -69,15 +69,19 @@ Sur GitHub les fichiers `.htaccess` ne sont pas pris en charge.
 * Liste à implémenter : [Check-list pour l'accessibilité mobile
 ](https://developer.mozilla.org/fr/docs/Accessibilit%C3%A9/Checklist_accessibilite_mobile)
 
+* Les sites de tests en ligne: Dareboost, Accessibility Checker, Google PageSpeed Insights,<br>GTmetrix, My Pingdom, GiftOfSpeed, Chrome Contrast couleurs.
+
 | Languages       | et                    | outils     |
 | :-------------: |:-------------:        | :-----:    |
-| HTML5           | BOOSTRAP              | xxxxxxxxxx |
-| CSS3            | GIT                   | xxxxxxxxxx |
-| JS              | Google Search console |  xxxxxx    |
+| HTML5           | Bootstrap              | ImageOptim |
+| CSS3            | Git/GitHub                   | Chrome DevTools |
+| JS              | Google Search console |  Visual Studio Code    |
 
 ***
 
 ### 🚦Les documents de présentation
+
+# A REMPLIR
 
 → [Google doc en ligne](https://)\
 → [doc en ligne](https://)\
