@@ -81,13 +81,13 @@ Sur GitHub les fichiers `.htaccess` ne sont pas pris en charge.
 
 ### 🚦Les documents de présentation
 
-→ [Analyse de l’état actuel du SEO](https://drive.google.com/file/d/1aO9x09tYVJD6mG23KavkqRs_-T9V80_J/view?usp=sharing)
+→ [Analyse de l’état actuel du SEO](https://drive.google.com/file/d/1aO9x09tYVJD6mG23KavkqRs_-T9V80_J/view?usp=sharing)\
 → [10 recommandations pour améliorer le SEO](https://) A METTRE\
 → [Rapport d'optimisation du SEO](https://) A METTRE\
-→ [Code source optimisé](https://github.com/thierry-laval/la-chouette-agence/find/master)
-→ [Lien du projet GitHub](https://github.com/thierry-laval/la-chouette-agence)
-→ [Lien de la Chouette Agence Optimisé](https://thierry-laval.github.io/la-chouette-agence)
-→ [Les rapports de test SEO](https://drive.google.com/drive/folders/1tgPtZZVKhZpWf7vMzUSkv6xQp76qzp25?usp=sharing)
+→ [Code source optimisé](https://github.com/thierry-laval/la-chouette-agence/find/master)\
+→ [Lien du projet GitHub](https://github.com/thierry-laval/la-chouette-agence)\
+→ [Lien de la Chouette Agence Optimisé](https://thierry-laval.github.io/la-chouette-agence)\
+→ [Les rapports de test SEO](https://drive.google.com/drive/folders/1tgPtZZVKhZpWf7vMzUSkv6xQp76qzp25?usp=sharing)\
 
 ***
 
