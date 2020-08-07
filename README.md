@@ -4,10 +4,10 @@ _`Début de formation le 20/04/2020`_
 
 ### Auteur
 
-👤**Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>)
-
-* Github [@Thierry Laval](https://github.com/thierry-laval)
-* LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
+👤 **Thierry LAVAL** 
+:mailbox_with_mail: [🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>)
+* Github [@Thierry Laval](https://github.com/thierry-laval "Cliquez pour voir mes projets")
+* LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval "Visitez mon profil")
 
 ***
 ## 📎 Projet 4 - Optimisez le site web existant "La chouette agence"
@@ -15,7 +15,7 @@ _`Début de formation le 20/04/2020`_
 ***
 ### Optimiser le SEO d'un site
 
-Le site optimisé: [La Chouette agence, hébergé sur GitHub](https://thierry-laval.github.io/la-chouette-agence/)
+Le site optimisé hébergé sur GitHub: [La Chouette agence](https://thierry-laval.github.io/la-chouette-agence/)
 
 #### 🔨 Optimisez un site web existant
 
@@ -81,13 +81,13 @@ Sur GitHub les fichiers `.htaccess` ne sont pas pris en charge.
 
 ### 🚦Les documents de présentation
 
-→ [Analyse de l’état actuel du SEO](https://drive.google.com/file/d/1aO9x09tYVJD6mG23KavkqRs_-T9V80_J/view?usp=sharing)\
-→ [10 recommandations pour améliorer le SEO](https://) A METTRE\
-→ [Rapport d'optimisation du SEO](https://) A METTRE\
-→ [Code source optimisé](https://github.com/thierry-laval/la-chouette-agence/find/master)\
-→ [Lien du projet GitHub](https://github.com/thierry-laval/la-chouette-agence)\
-→ [Lien de la Chouette Agence Optimisé](https://thierry-laval.github.io/la-chouette-agence)\
-→ [Les rapports de test SEO](https://drive.google.com/drive/folders/1tgPtZZVKhZpWf7vMzUSkv6xQp76qzp25?usp=sharing)
+:white_check_mark: [Analyse de l’état actuel du SEO](https://drive.google.com/file/d/1aO9x09tYVJD6mG23KavkqRs_-T9V80_J/view?usp=sharing)\
+:white_check_mark: [10 recommandations pour améliorer le SEO](https://) A METTRE\
+:white_check_mark: [Rapport d'optimisation du SEO](https://) A METTRE\
+:white_check_mark: [Code source optimisé](https://github.com/thierry-laval/la-chouette-agence/find/master)\
+:white_check_mark: [Lien du projet GitHub](https://github.com/thierry-laval/la-chouette-agence)\
+:white_check_mark: [Lien de la Chouette Agence Optimisé](https://thierry-laval.github.io/la-chouette-agence)\
+:white_check_mark: [Les rapports de test SEO](https://drive.google.com/drive/folders/1tgPtZZVKhZpWf7vMzUSkv6xQp76qzp25?usp=sharing)
 
 ***
 
@@ -99,9 +99,11 @@ class="fa fa-twitter icon-md"></span></a>
 class="fa fa-facebook icon-md"></span></a>
 <a class="social" href="https://dribbble.com/" title="Cliquez pour ouvrir notre compte" target="_blank"><span
 class="fa fa-dribbble icon-md"></span></a>
+<i class="fa fa-facebook" aria-hidden="true"></i>
 
-<p>&hearts; 
-<a aria-label="compte instagram" class="social" href="https://www.instagram.com/?hl=fr"
-title="Cliquez pour ouvrir notre compte" target="_blank"><span class="fa fa-instagram icon-md"></span></a><p>
+[<i class="fa fa-facebook" aria-hidden="true"></i>](https://www.instagram.com/?hl=fr "Compte Instagram")
+
+
+
 
 <p>&hearts; Love Markdown<p>
