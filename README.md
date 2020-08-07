@@ -80,7 +80,7 @@ Sur GitHub les fichiers `.htaccess` ne sont pas pris en charge.
 ***
 
 ### 🚦Les documents de présentation
-
+<p>
 → <a href="https://drive.google.com/file/d/1QzXAvQmzcnhcBe_wV7HR83tRJdeWj2DP/view?usp=sharing" target="_blank">Analyse de l’état actuel du SEO</a>\
 → <a href="https://XXXXXXXXXX" target="_blank">10 recommandations pour améliorer le SEO A FAIRE</a>\
 → <a href="https://XXXXXXXX" target="_blank">Rapport d'optimisation du SEO A FAIRE</a>\
@@ -88,7 +88,7 @@ Sur GitHub les fichiers `.htaccess` ne sont pas pris en charge.
 → <a href="https://github.com/thierry-laval/la-chouette-agence" target="_blank">Lien du projet GitHub</a>\
 → <a href="https://thierry-laval.github.io/la-chouette-agence" target="_blank">Lien de la Chouette Agence Optimisé</a>\
 → <a href="https://drive.google.com/drive/folders/1tgPtZZVKhZpWf7vMzUSkv6xQp76qzp25?usp=sharing" target="_blank">Les rapports de test SEO</a>
-
+</p>
 ***
 
 ##### Accés aux réseaux sociaux.
