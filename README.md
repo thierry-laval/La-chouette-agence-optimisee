@@ -4,8 +4,7 @@ _`Début de formation le 20/04/2020`_
 
 ### Auteur
 
-👤 **Thierry LAVAL** 
-<br>:mailbox_with_mail: [🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>)
+👤 **Thierry LAVAL**  [🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>)
 * Github [@Thierry Laval](https://github.com/thierry-laval "Cliquez pour voir mes projets")
 * LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval "Visitez mon profil")
 
