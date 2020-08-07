@@ -80,20 +80,19 @@ Sur GitHub les fichiers `.htaccess` ne sont pas pris en charge.
 ***
 
 ### 🚦Les documents de présentation
-<p>
-→ <a href="https://drive.google.com/file/d/1QzXAvQmzcnhcBe_wV7HR83tRJdeWj2DP/view?usp=sharing" target="_blank">Analyse de l’état actuel du SEO</a>\
-→ <a href="https://XXXXXXXXXX" target="_blank">10 recommandations pour améliorer le SEO A FAIRE</a>\
-→ <a href="https://XXXXXXXX" target="_blank">Rapport d'optimisation du SEO A FAIRE</a>\
-→ <a href="https://github.com/thierry-laval/la-chouette-agence/find/master" target="_blank">Code source optimisé</a>\
-→ <a href="https://github.com/thierry-laval/la-chouette-agence" target="_blank">Lien du projet GitHub</a>\
-→ <a href="https://thierry-laval.github.io/la-chouette-agence" target="_blank">Lien de la Chouette Agence Optimisé</a>\
-→ <a href="https://drive.google.com/drive/folders/1tgPtZZVKhZpWf7vMzUSkv6xQp76qzp25?usp=sharing" target="_blank">Les rapports de test SEO</a>
-</p>
+
+→ [Analyse de l’état actuel du SEO](https://drive.google.com/file/d/1aO9x09tYVJD6mG23KavkqRs_-T9V80_J/view?usp=sharing)\
+→ [10 recommandations pour améliorer le SEO](https://) A METTRE\
+→ [Rapport d'optimisation du SEO](https://) A METTRE\
+→ [Code source optimisé](https://github.com/thierry-laval/la-chouette-agence/find/master)\
+→ [Lien du projet GitHub](https://github.com/thierry-laval/la-chouette-agence)\
+→ [Lien de la Chouette Agence Optimisé](https://thierry-laval.github.io/la-chouette-agence)\
+→ [Les rapports de test SEO](https://drive.google.com/drive/folders/1tgPtZZVKhZpWf7vMzUSkv6xQp76qzp25?usp=sharing)\
+
 ***
 
 ##### Accés aux réseaux sociaux.
-<div>
-<p>
+
 <a href="https://twitter.com/explore" title="Compte Twitter" target="_blank"><span
 class="fa fa-twitter icon-md"></span></a>
 <a aria-label="compte facebook" class="social" href="https://fr-fr.facebook.com/" title="Cliquez pour ouvrir notre compte" target="_blank"><span
@@ -102,7 +101,7 @@ class="fa fa-facebook icon-md"></span></a>
 class="fa fa-dribbble icon-md"></span></a>
 <a aria-label="compte instagram" class="social" href="https://www.instagram.com/?hl=fr"
 title="Cliquez pour ouvrir notre compte" target="_blank"><span class="fa fa-instagram icon-md"></span></a>
-</p></div>
+
 <p>&hearts; Love Markdown<p>
 
 
