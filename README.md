@@ -87,7 +87,7 @@ Sur GitHub les fichiers `.htaccess` ne sont pas pris en charge.
 → [Code source optimisé](https://github.com/thierry-laval/la-chouette-agence/find/master)\
 → [Lien du projet GitHub](https://github.com/thierry-laval/la-chouette-agence)\
 → [Lien de la Chouette Agence Optimisé](https://thierry-laval.github.io/la-chouette-agence)\
-→ [Les rapports de test SEO](https://drive.google.com/drive/folders/1tgPtZZVKhZpWf7vMzUSkv6xQp76qzp25?usp=sharing)\
+→ [Les rapports de test SEO](https://drive.google.com/drive/folders/1tgPtZZVKhZpWf7vMzUSkv6xQp76qzp25?usp=sharing)
 
 ***
 
@@ -99,10 +99,9 @@ class="fa fa-twitter icon-md"></span></a>
 class="fa fa-facebook icon-md"></span></a>
 <a class="social" href="https://dribbble.com/" title="Cliquez pour ouvrir notre compte" target="_blank"><span
 class="fa fa-dribbble icon-md"></span></a>
+
+<p>&hearts; 
 <a aria-label="compte instagram" class="social" href="https://www.instagram.com/?hl=fr"
-title="Cliquez pour ouvrir notre compte" target="_blank"><span class="fa fa-instagram icon-md"></span></a>
+title="Cliquez pour ouvrir notre compte" target="_blank"><span class="fa fa-instagram icon-md"></span></a><p>
 
 <p>&hearts; Love Markdown<p>
-
-
-<a href="http://example.com/" target="_blank">example</a>
