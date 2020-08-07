@@ -87,7 +87,7 @@ Sur GitHub les fichiers `.htaccess` ne sont pas pris en charge.
 → <a href="https://github.com/thierry-laval/la-chouette-agence/find/master" target="_blank">Code source optimisé</a>\
 → <a href="https://github.com/thierry-laval/la-chouette-agence" target="_blank">Lien du projet GitHub</a>\
 → <a href="https://thierry-laval.github.io/la-chouette-agence" target="_blank">Lien de la Chouette Agence Optimisé</a>\
-→ <a href="https://drive.google.com/drive/folders/1tgPtZZVKhZpWf7vMzUSkv6xQp76qzp25?usp=sharing" target="_blank">Les rapports de test SEO</a>\
+→ <a href="https://drive.google.com/drive/folders/1tgPtZZVKhZpWf7vMzUSkv6xQp76qzp25?usp=sharing" target="_blank">Les rapports de test SEO</a>
 
 ***
 
