@@ -81,18 +81,18 @@ Sur GitHub les fichiers `.htaccess` ne sont pas pris en charge.
 
 ### 🚦Les documents de présentation
 
-# A REMPLIR
+→ [Analyse de l’état actuel du SEO](https://drive.google.com/file/d/1aO9x09tYVJD6mG23KavkqRs_-T9V80_J/view?usp=sharing)
+→ [10 recommandations pour améliorer le SEO](https://) A METTRE\
+→ [Rapport d'optimisation du SEO](https://) A METTRE\
+→ [Code source optimisé](https://github.com/thierry-laval/la-chouette-agence/find/master)
+→ [Lien du projet GitHub](https://github.com/thierry-laval/la-chouette-agence)
+→ [Lien de la Chouette Agence Optimisé](https://thierry-laval.github.io/la-chouette-agence)
+→ [Les rapports de test SEO](https://drive.google.com/drive/folders/1tgPtZZVKhZpWf7vMzUSkv6xQp76qzp25?usp=sharing)
 
-→ [Google doc en ligne](https://)\
-→ [doc en ligne](https://)\
-→ \
-→
-
-Tableau de recommandations SEO [Recommandations](Mettre le lien en partage sur google)
 ***
 
 ##### Accés aux réseaux sociaux.
-</p>
+<p>
 <a href="https://twitter.com/explore" title="Compte Twitter" target="_blank"><span
 class="fa fa-twitter icon-md"></span></a>
 <a aria-label="compte facebook" class="social" href="https://fr-fr.facebook.com/" title="Cliquez pour ouvrir notre compte" target="_blank"><span
