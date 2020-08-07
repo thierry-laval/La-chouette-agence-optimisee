@@ -91,21 +91,4 @@ Sur GitHub les fichiers `.htaccess` ne sont pas pris en charge.
 
 ***
 
-##### Accés aux réseaux sociaux.
-
-<a href="https://twitter.com/explore" title="Compte Twitter"><span
-class="fa fa-twitter icon-md"></span></a>
-
-
-<a aria-label="compte facebook" class="social" href="https://fr-fr.facebook.com/" title="Cliquez pour ouvrir notre compte" target="_blank"><span
-class="fa fa-facebook icon-md"></span></a>
-<a class="social" href="https://dribbble.com/" title="Cliquez pour ouvrir notre compte" target="_blank"><span
-class="fa fa-dribbble icon-md"></span></a>
-<i class="fa fa-facebook" aria-hidden="true"></i>
-
-[<i class="fa fa-facebook" aria-hidden="false"></i>](https://www.instagram.com/?hl=fr "Compte Instagram")
-
-
-
-
 <p>&hearts; Love Markdown<p>
