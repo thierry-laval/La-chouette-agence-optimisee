@@ -80,9 +80,9 @@ Sur GitHub les fichiers `.htaccess` ne sont pas pris en charge.
 
 ### 🚦Les documents de présentation
 
-:white_check_mark: [Analyse de l’état actuel du SEO](https://drive.google.com/file/d/1aO9x09tYVJD6mG23KavkqRs_-T9V80_J/view?usp=sharing)\
-:white_check_mark: [10 recommandations pour améliorer le SEO](https://) A METTRE\
-:white_check_mark: [Rapport d'optimisation du SEO](https://) A METTRE\
+:white_check_mark: [Analyse de l’état actuel du SEO](https://drive.google.com/file/d/1Xt1Cu8nM5nVm-5rHrUBpHcLhBOkP-P5V/view?usp=sharing)\
+:white_check_mark: [10 recommandations pour améliorer le SEO](https://drive.google.com/file/d/19twBG5KC01nIfDIYf5PyODybkY2axvVA/view?usp=sharing)\
+:white_check_mark: [Rapport d'optimisation du SEO](https://drive.google.com/file/d/1fcW0o8AmSgP_2yU7wyxUH2kUh9XSSJnZ/view?usp=sharing)\
 :white_check_mark: [Code source optimisé](https://github.com/thierry-laval/la-chouette-agence/find/master)\
 :white_check_mark: [Lien du projet GitHub](https://github.com/thierry-laval/la-chouette-agence)\
 :white_check_mark: [Lien de la Chouette Agence Optimisé](https://thierry-laval.github.io/la-chouette-agence)\
