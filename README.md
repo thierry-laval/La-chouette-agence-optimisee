@@ -2,11 +2,13 @@
 
 _`Début de formation le 20/04/2020`_
 
-### Auteur
+## Auteur
 
-👤 **Thierry LAVAL**  [🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>)
-* Github [@Thierry Laval](https://github.com/thierry-laval "Cliquez pour voir mes projets")
+👤 &nbsp; **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<thierrylaval@gmx.com>)
+
+* Github: [@Thierry Laval](https://github.com/thierry-laval "Cliquez pour voir mes projets")
 * LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval "Visitez mon profil")
+* Visitez ==> 🏠 [Site Web](https://thierrylaval.dev "Visitez ma page pro")
 
 ***
 ## 📎 Projet 4 - Optimisez le site web existant "La chouette agence"
